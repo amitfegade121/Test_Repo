@@ -1,7 +1,7 @@
 public class Calculator {
 	public static void main(String [] args) {
 		System.out.println("Hello World!!!!");
- 		System.out.println("calculator Java Program");
+ 		System.out.println("hiii");
 	}
 
   	public static void addition(int number1, int number2) {
